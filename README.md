@@ -1,6 +1,8 @@
-# My awesome list
-
 ## Laravel
+
+### Information, news, etc.
+- ##### Demiart laravel
+  News, articles on russian language [WebSite](https://laravel.demiart.ru/)
 
 #### Admin panels, dashboards, etc.
 - ##### Nova
