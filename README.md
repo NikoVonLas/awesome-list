@@ -11,6 +11,7 @@
   Free laravel dashboard on vue.js - [WebSite](https://orchid.software/), [GitHub](https://github.com/orchidsoftware/platform)
 - ##### October CMS
   Best laravel CMS and can be used as only admin panel - [WebSite](https://octobercms.com/)
+  
   And you can obtain free license!
 ####
 #### Notification
